@@ -208,5 +208,8 @@ nav .right a span {
         padding: 0px 20px;
         
     }
+    .headshot img {
+        width: 300px;
+    }
 
 }
