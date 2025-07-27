@@ -25,6 +25,8 @@ body {
 
 a {
     color: var(--link-color);
+    text-decoretion: none;
+    
 }
 
 /* NAVBAR */
